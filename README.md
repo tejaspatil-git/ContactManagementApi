@@ -1,3 +1,11 @@
+
+![image](https://github.com/user-attachments/assets/8f189a18-c4ba-44ea-b5a5-333dc98dbb5c)
+
+
+
+
+
+
 README.md for Full-Stack Contacts Management Application
 Contacts Management Application
 This project is a full-stack application that allows users to manage contacts. The application uses Angular (v13+) for the frontend and .NET Core (v6+) for the backend. The data is stored in a local JSON file, simulating a mock database. The application supports basic CRUD (Create, Read, Update, Delete) operations and includes validation for the contact fields. The backend has global error handling, and the frontend uses Reactive Forms with Bootstrap for styling.
